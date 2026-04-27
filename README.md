@@ -40,7 +40,7 @@ https://github.com/riyahardia784/fair-ai-backend.git
 https://github.com/riyahardia784/fair-ai-frontend.git
 
 ## Live link 
-fair-ai-git-main-riyahardia252-3519s-projects.vercel.app
+https://fair-ai-git-main-riyahardia252-3519s-projects.vercel.app
 
 ## License
 This project is licensed under the MIT License.
