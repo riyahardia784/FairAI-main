@@ -31,9 +31,16 @@ The application consists of a `React`-based frontend for user interaction and a 
 **AI Integration**: Gemini API
 **Visualization**: Chart.js 
 
-##Repository
+## Repository
 
-**Backend** : 
+**Backend Repo** : 
+https://github.com/riyahardia784/fair-ai-backend.git
 
-- **Responsive UI**: Built with `React` and `Tailwind CSS` for a modern, mobile-friendly interface.
-- **Real-time Analysis**: Processes data on the server and returns results instantly.
+**Frontend Repo**:
+https://github.com/riyahardia784/fair-ai-frontend.git
+
+## Live link 
+fair-ai-git-main-riyahardia252-3519s-projects.vercel.app
+
+## License
+This project is licensed under the MIT License.
